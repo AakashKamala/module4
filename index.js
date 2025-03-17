@@ -15,7 +15,7 @@ app.use(cors())
 app.use(express.json())
 
 //lol
-// lol2git s
+// lol2git skj
 
 app.get("/",(req,res)=>{
     res.send("Hello World")
